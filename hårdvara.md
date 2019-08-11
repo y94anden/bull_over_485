@@ -17,7 +17,8 @@ problem. Måste testas.
 Man kan också köra en software serial på vilka pinnar som helst. Även den
 befintliga [optiboot] kan köras mot en software serial, troligen även med
 angivande av RS485-enable pinne. Det borde då gå att köra [avrdude] för
-uppgradering, eller kanske direkt från Arduino-IDE't.
+uppgradering, eller kanske direkt från Arduino-IDE't. Optiboot kräver 512b
+vilket lämnar 31.5kB till annan kod.
 
 Arduinon kan matas med upp till 12V utan problem, men kan också direktmatas
 med 5V.
