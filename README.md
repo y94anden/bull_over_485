@@ -8,7 +8,7 @@ En samling av önskemål för ett system av små enheter på ett RS485-nät.
 * Driftspänning 24 / 48 V
 * Uppgraderingsbart i nätet
 * Möjligt att prata 1-wire från enheten
-* Någon LED / knapp
+* Någon LED / knapp. LED'en skulle kunna vara en RGB med WS2812b (typ NeoPixel)
 * Tillgängliga I/O, eventuellt med drivsteg
 * PWM, eventuellt med drivsteg
 * Lokal temperatursensor. Fukt?
