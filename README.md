@@ -5,7 +5,7 @@ En samling av önskemål för ett system av små enheter på ett RS485-nät.
 # Önskemål på enheter
 
 * Prata RS485
-* Driftspänning 24 / 48 V
+* Driftspänning 24 / 48 V. 230 växel?
 * Uppgraderingsbart i nätet
 * Möjligt att prata 1-wire från enheten
 * Någon LED / knapp. LED'en skulle kunna vara en RGB med WS2812b (typ NeoPixel)
@@ -14,4 +14,3 @@ En samling av önskemål för ett system av små enheter på ett RS485-nät.
 * Lokal temperatursensor. Fukt?
 * Mätning av driftspänning
 * A/D
-TEST ML
