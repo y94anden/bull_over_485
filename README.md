@@ -14,3 +14,5 @@ En samling av önskemål för ett system av små enheter på ett RS485-nät.
 * Lokal temperatursensor. Fukt?
 * Mätning av driftspänning
 * A/D
+* Reglera spänning ut mha PWM
+* Reglera ström ut mha PWM (t.ex. för belysning)
