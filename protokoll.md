@@ -44,5 +44,7 @@ All efterkommande trafik är enbart avsedd för enheten som ska uppgraderas.
 Övriga enheter vilar tills bussen har varit tyst i X sekunder.
 
 Eller man trycker på uppdateringen på en device men kan prata med andra emellan om man vill. 
+
 Eventuellt olika uppdateringsförfaranden för olika typer av devices. 
+
 Tex för en fpga (altera) utan processor så kan man helt enkelt ange att det är en skrivning till confminnet och vilken adress det ska börja på. När man sen skrivit all data kan man tala om att den har en uppdatering som ska köras från den aktuella adressen. 
